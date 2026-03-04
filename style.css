@@ -16,7 +16,7 @@ body {
 
 h1 {
     color: #2ecc71;       /* cor do Aluno B */
-    font-size: 2.5rem;    /* tamanho do Aluno A */
+    font-size: 2.5--rem;    /* tamanho do Aluno A */
     text-align: center;   /* alinhamento do Aluno A */
 }
 
