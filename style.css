@@ -15,9 +15,9 @@ body {
 }
 
 h1 {
-    color: #e74c5c;
-    font-size: 2.5rem;
-    text-align: center;
+    color: #2ecc71;       /* cor do Aluno B */
+    font-size: 2.5rem;    /* tamanho do Aluno A */
+    text-align: center;   /* alinhamento do Aluno A */
 }
 
 /* ========== NAVEGAÇÃO ========== */
